@@ -1,7 +1,5 @@
 # Jogo da Cobrinha
 
+## Projeto desenvolvido em HTML, CSS e JavaScript.
 
-
-Projeto desenvolvido em HTML, CSS e JavaScript.
-
-![Captura de tela de 2021-05-03 20-09-03](/home/dkiatkowski/Workspace/WebDeveloper/SnakeGame/Captura de tela de 2021-05-03 20-09-03.png)
+![Jogo da Cobrinha](https://github.com/DKiatkowski/jogo-da-cobrinha/blob/main/Captura-de-tela.png)
